@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AuthorizationWindow.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\EditTestPage.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\NoTestPage.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\PassTestPage.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainPage.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AuthorizationPage.g.cs

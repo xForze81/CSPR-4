@@ -1,0 +1,12 @@
+﻿<Page x:Class="TestApp.EditTestPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:TestApp"
+      Title="Edit Test">
+    <Grid>
+        <StackPanel>
+            <DataGrid x:Name="DataGrid" AutoGenerateColumns="True" Margin="0 0 0 10"/>
+            <Button Content="Save" Click="SaveButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
